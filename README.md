@@ -1,3 +1,7 @@
-poc
-===
-README text here.
+# fclooper
+
+## Run
+
+```
+racket main.rkt
+```
